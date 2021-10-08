@@ -4,7 +4,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=iDeepverma)
 <br><br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Deepanshu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:73387559+iDeepverma@users.noreply.github.com)](mailto:73387559+iDeepverma@users.noreply.github.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-Deepanshu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:73387559+iDeepverma@users.noreply.github.com)](mailto:73387559+iDeepverma@users.noreply.github.com) -->
 [<img align="left" alt="Deep | LinkedIn" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/linkedin.png" />](https://www.linkedin.com/in/deepanshu-verma-901754206/)
 [<img align="left" alt="Deep | Instagram" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/instagram.png" />](https://www.instagram.com/i.deep.verma/)
 
