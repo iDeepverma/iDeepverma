@@ -43,4 +43,6 @@
 <br>
 <h2 align="center">⚡🔥 Stats 🔥⚡</h2>
 
-[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDeepverma&theme=dracula)](https://github.com/iDeepverma/iDeepverma)
+[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDeepverma&theme=dracula&hide_border=true)](https://github.com/iDeepverma/iDeepverma)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iDeepverma&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
