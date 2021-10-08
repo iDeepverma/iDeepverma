@@ -2,7 +2,6 @@
 
 [![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDeepverma&theme=dracula)](https://github.com/iDeepverma/iDeepverma)
 
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:73387559+iDeepverma@users.noreply.github.com)
 [<img align="left" alt="Deep | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/deepanshu-verma-901754206/)
 [<img align="left" alt="Deep | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/i.deep.verma/)
 
