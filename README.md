@@ -8,7 +8,6 @@
 [<img align="left" alt="Deep | LinkedIn" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/linkedin.png" />](https://www.linkedin.com/in/deepanshu-verma-901754206/)
 [<img align="left" alt="Deep | Instagram" width="26px" src="https://github.com/Gourav-Kr/Gourav-Kr/blob/main/Img/instagram.png" />](https://www.instagram.com/i.deep.verma/)
 
-
 ### Languages and Tools: 
 [<img align="left" alt="JAVA" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />](https://www.java.com/)
 
@@ -41,10 +40,7 @@
 [<img align="left" alt="PYCHARM" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 
 [<img align="left" alt="NUMPY" width="60px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://numpy.org/)
-
-<br />
-
-<h2 align="center">⚡🔥 Stats 🔥⚡</h2>
-[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDeepverma&theme=dracula)](https://github.com/iDeepverma/iDeepverma)
 <br>
-<hr>
+<h2 align="center">⚡🔥 Stats 🔥⚡</h2>
+
+[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDeepverma&theme=dracula)](https://github.com/iDeepverma/iDeepverma)
